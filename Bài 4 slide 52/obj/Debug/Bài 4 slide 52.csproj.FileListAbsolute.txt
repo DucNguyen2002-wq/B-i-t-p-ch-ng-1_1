@@ -1,0 +1,10 @@
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\bin\Debug\Bài 4 slide 52.exe.config
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\bin\Debug\Bài 4 slide 52.exe
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\bin\Debug\Bài 4 slide 52.pdb
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\obj\Debug\Bài 4 slide 52.csproj.AssemblyReference.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\obj\Debug\Bài_4_slide_52.frmListBox.resources
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\obj\Debug\Bài_4_slide_52.Properties.Resources.resources
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\obj\Debug\Bài 4 slide 52.csproj.GenerateResource.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\obj\Debug\Bài 4 slide 52.csproj.CoreCompileInputs.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\obj\Debug\Bài 4 slide 52.exe
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 4 slide 52\obj\Debug\Bài 4 slide 52.pdb

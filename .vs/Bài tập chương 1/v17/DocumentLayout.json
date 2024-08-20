@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS2022\\Project\\\u1EE8ng d\u1EE5ng desktop\\B\u00E0i t\u1EADp ch\u01B0\u01A1ng 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79936E-3E4B-4E71-9508-33F6500C01C8}|B\u00E0i 7 slide 60\\B\u00E0i 7 slide 60.csproj|e:\\vs2022\\project\\\u1EE9ng d\u1EE5ng desktop\\b\u00E0i t\u1EADp ch\u01B0\u01A1ng 1\\b\u00E0i 7 slide 60\\frmchecklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F79936E-3E4B-4E71-9508-33F6500C01C8}|B\u00E0i 7 slide 60\\B\u00E0i 7 slide 60.csproj|solutionrelative:b\u00E0i 7 slide 60\\frmchecklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79936E-3E4B-4E71-9508-33F6500C01C8}|B\u00E0i 7 slide 60\\B\u00E0i 7 slide 60.csproj|e:\\vs2022\\project\\\u1EE9ng d\u1EE5ng desktop\\b\u00E0i t\u1EADp ch\u01B0\u01A1ng 1\\b\u00E0i 7 slide 60\\frmchecklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F79936E-3E4B-4E71-9508-33F6500C01C8}|B\u00E0i 7 slide 60\\B\u00E0i 7 slide 60.csproj|solutionrelative:b\u00E0i 7 slide 60\\frmchecklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCheckListBox.cs",
+              "DocumentMoniker": "E:\\VS2022\\Project\\\u1EE8ng d\u1EE5ng desktop\\B\u00E0i t\u1EADp ch\u01B0\u01A1ng 1\\B\u00E0i 7 slide 60\\frmCheckListBox.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 7 slide 60\\frmCheckListBox.cs",
+              "ToolTip": "E:\\VS2022\\Project\\\u1EE8ng d\u1EE5ng desktop\\B\u00E0i t\u1EADp ch\u01B0\u01A1ng 1\\B\u00E0i 7 slide 60\\frmCheckListBox.cs",
+              "RelativeToolTip": "B\u00E0i 7 slide 60\\frmCheckListBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:02:49.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCheckListBox.cs [Design]",
+              "DocumentMoniker": "E:\\VS2022\\Project\\\u1EE8ng d\u1EE5ng desktop\\B\u00E0i t\u1EADp ch\u01B0\u01A1ng 1\\B\u00E0i 7 slide 60\\frmCheckListBox.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 7 slide 60\\frmCheckListBox.cs",
+              "ToolTip": "E:\\VS2022\\Project\\\u1EE8ng d\u1EE5ng desktop\\B\u00E0i t\u1EADp ch\u01B0\u01A1ng 1\\B\u00E0i 7 slide 60\\frmCheckListBox.cs [Design]",
+              "RelativeToolTip": "B\u00E0i 7 slide 60\\frmCheckListBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:59:42.7Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

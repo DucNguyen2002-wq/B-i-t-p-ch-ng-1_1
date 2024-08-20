@@ -1,0 +1,15 @@
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\bin\Debug\Bài 1 slide 35.exe.config
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\bin\Debug\Bài 1 slide 35.exe
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\bin\Debug\Bài 1 slide 35.pdb
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài_1_slide_35.MainForm.resources
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài_1_slide_35.Properties.Resources.resources
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.exe
+C:\Users\PC602\source\repos\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.pdb
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.csproj.AssemblyReference.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài_1_slide_35.frmLinkLabel.resources
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài_1_slide_35.Properties.Resources.resources
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.csproj.GenerateResource.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 1 slide 35\obj\Debug\Bài 1 slide 35.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\bin\Debug\Bài 5 slide 56.exe.config
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\bin\Debug\Bài 5 slide 56.exe
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\bin\Debug\Bài 5 slide 56.pdb
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\obj\Debug\Bài 5 slide 56.csproj.AssemblyReference.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\obj\Debug\Bài_5_slide_56.frmRadioButton.resources
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\obj\Debug\Bài_5_slide_56.Properties.Resources.resources
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\obj\Debug\Bài 5 slide 56.csproj.GenerateResource.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\obj\Debug\Bài 5 slide 56.csproj.CoreCompileInputs.cache
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\obj\Debug\Bài 5 slide 56.exe
+E:\VS2022\Project\Ứng dụng desktop\Bài tập chương 1\Bài 5 slide 56\obj\Debug\Bài 5 slide 56.pdb
